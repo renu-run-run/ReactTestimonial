@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ReactTestimonial/static/css/main.b12c08d9.css",
+    "main.js": "/ReactTestimonial/static/js/main.c3cff663.js",
+    "static/js/787.ab5bc390.chunk.js": "/ReactTestimonial/static/js/787.ab5bc390.chunk.js",
+    "static/media/cphoto3.jpg": "/ReactTestimonial/static/media/cphoto3.d307d73c1bbd9ead699c.jpg",
+    "static/media/cphoto.jpg": "/ReactTestimonial/static/media/cphoto.34c492fd8526324fafac.jpg",
+    "static/media/cphoto2.jpg": "/ReactTestimonial/static/media/cphoto2.fca7e399cde2fc0bdf33.jpg",
+    "static/media/cphoto4.jpg": "/ReactTestimonial/static/media/cphoto4.e59dc32fcdbd8fd7df37.jpg",
+    "static/media/cphoto1.jpg": "/ReactTestimonial/static/media/cphoto1.bf384206d7dbea448b65.jpg",
+    "static/media/carouselImage6.jpg": "/ReactTestimonial/static/media/carouselImage6.271a4101805e35f64317.jpg",
+    "static/media/slick.svg": "/ReactTestimonial/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/ReactTestimonial/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/ReactTestimonial/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/ReactTestimonial/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/ReactTestimonial/index.html",
+    "main.b12c08d9.css.map": "/ReactTestimonial/static/css/main.b12c08d9.css.map",
+    "main.c3cff663.js.map": "/ReactTestimonial/static/js/main.c3cff663.js.map",
+    "787.ab5bc390.chunk.js.map": "/ReactTestimonial/static/js/787.ab5bc390.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b12c08d9.css",
+    "static/js/main.c3cff663.js"
+  ]
+}
